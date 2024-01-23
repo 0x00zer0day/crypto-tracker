@@ -8,9 +8,10 @@ export default {
     extend: {
       colors: {
         'custom-dark-blue' : '#2D4263',
+        'custom-light-yellow' : '#ECDBBA',
+        'custom-orange': '#C84B31',
       },
     },
   },
   plugins: [],
 }
-
